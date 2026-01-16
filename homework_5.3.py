@@ -18,7 +18,3 @@ for current_string in user_string:
         print(f" '{current_string}' has more than the maximum value, maximum length is {max_len} ")
         continue
     print(current_string)
-
-
-
-

@@ -1,7 +1,6 @@
 # Modify calculator (5.2)
 
 while True:
-
     number_1 =int(input("Enter the first number: "))
     number_2 =int(input("Enter the second number: "))
     math_operation = input("Choose a mathematical operation(+, -, *, /): ")

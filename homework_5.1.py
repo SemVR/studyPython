@@ -2,9 +2,8 @@
 import string
 import keyword
 
-# variable_names = ['_', '__', '___', 'x', 'get_value', 'get value', 'get!value','Get_value', 'get_Value', '3m', 'm3', 'assert', 'assert_exception']
-
 while True:
+    # variable_names = ['_', '__', '___', 'x', 'get_value', 'get value', 'get!value','Get_value', 'get_Value', '3m', 'm3', 'assert', 'assert_exception']
     variable_names = [input(str("Enter your variable name: "))]
 
     for variable_name in variable_names:
